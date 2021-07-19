@@ -10,6 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Example" Type="Folder">
+			<Item Name="WS Action and Status.vi" Type="VI" URL="../Examples/WS Action and Status.vi"/>
+		</Item>
 		<Item Name="WS Admin.lvlib" Type="Library" URL="../WS Admin/WS Admin.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
