@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-06-26 02:54:15" Modified_Date="2021-07-19 11:24:52" Creator="hal_dev" Comments="" ID="98a90e2bb25136e77393852ac6d9263d">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-06-26 02:54:15" Modified_Date="2021-10-20 11:28:28" Creator="hal_dev" Comments="" ID="5dc83113fee399e454fe86fc530d1e58">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_WS_Admin</Package_File_Name>
-    <Library_Version>0.1.0.6</Library_Version>
+    <Library_Version>0.1.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -113,6 +113,12 @@ Note that VIs in this library do not follow standard error behavior; functionali
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -125,6 +131,9 @@ Note that VIs in this library do not follow standard error behavior; functionali
       </Namespace_Overrides>
       <Place_Folder_Contents>
         <Path/>
+      </Place_Folder_Contents>
+      <Place_Folder_Contents>
+        <Path>Examples</Path>
       </Place_Folder_Contents>
     </Source_Files>
     <License_Agreement_Filepath/>
@@ -295,7 +304,7 @@ Note that VIs in this library do not follow standard error behavior; functionali
         <Path>WS Admin\Do WS Action.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2C36A6A93DD05F9756343D72C62D9F60</GUID>
+      <GUID>024464CE43C5B2930741D137D96D911C</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
